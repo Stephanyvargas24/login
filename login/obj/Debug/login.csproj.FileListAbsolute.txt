@@ -1,0 +1,11 @@
+C:\Users\fanyv\Desktop\visual\login\bin\Debug\login.exe.config
+C:\Users\fanyv\Desktop\visual\login\bin\Debug\login.exe
+C:\Users\fanyv\Desktop\visual\login\bin\Debug\login.pdb
+C:\Users\fanyv\Desktop\visual\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\fanyv\Desktop\visual\login\obj\Debug\login.Form1.resources
+C:\Users\fanyv\Desktop\visual\login\obj\Debug\login.Form2.resources
+C:\Users\fanyv\Desktop\visual\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\fanyv\Desktop\visual\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\fanyv\Desktop\visual\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\fanyv\Desktop\visual\login\obj\Debug\login.exe
+C:\Users\fanyv\Desktop\visual\login\obj\Debug\login.pdb
