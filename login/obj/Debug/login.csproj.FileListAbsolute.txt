@@ -9,3 +9,4 @@ C:\Users\fanyv\Desktop\visual\login\obj\Debug\login.csproj.GenerateResource.cach
 C:\Users\fanyv\Desktop\visual\login\obj\Debug\login.csproj.CoreCompileInputs.cache
 C:\Users\fanyv\Desktop\visual\login\obj\Debug\login.exe
 C:\Users\fanyv\Desktop\visual\login\obj\Debug\login.pdb
+C:\Users\fanyv\Desktop\visual\login\obj\Debug\login.FormRegistro.resources
